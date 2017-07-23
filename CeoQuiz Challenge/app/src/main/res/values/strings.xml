@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CeoQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">NEXT</string>
+    <string name="prev_button">PREV</string>
+
+    <string name="question_1">中国有四大海</string>
+    <string name="question_2">中国有六岳</string>
+    <string name="question_3">天津是中国最大的城市</string>
+
+    <string name="firstone_message">已经是第一个了</string>
+    <string name="lastone_message">已经是最后一个了</string>
+
+
+    <string name="waring_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">SHOW ANSWER</string>
+    <string name="cheat_button">CHEAT!</string>
+    <string name="judgment_toast">Cheating is wrong!</string>
+</resources>
